@@ -41,8 +41,7 @@ hr{
     width: 10%;
     border-top: 0;
 }
-.warnbkg{
-    background-color: #66bfbf;
+
 }
 /*.p1clear{
 clear:left;
@@ -134,6 +133,7 @@ h1 {
 }
 
 .header {
+    padding-top:70px;
     background-color: #66bfbf;
     font-weight: bold;
     color: #11999E;
