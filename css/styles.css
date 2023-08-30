@@ -1,6 +1,14 @@
 #colorbutton{
     color:white;
 }
+.cloud{
+position: absolute;
+left: 650px;
+top: 90px;
+}
+.giphy-embed{
+    width: 50px;
+}
 .buton {
     background: #9e9c9e;
     background-image: -webkit-linear-gradient(top, #9e9c9e, #3a65e6);
