@@ -2,6 +2,7 @@
     color:white;
 }
 .cloud{
+    pointer-events: none;
 position: absolute;
 left: 650px;
 top: 90px;
